@@ -1,8 +1,5 @@
-import java.util.Scanner;
 /**
- * Didn't feel like writing out my own fibonacci method
- * so I grabbed one from the interwebs and threw an 
- * if statement in there ;)
+ * Problem 2 from project Euler. 
  * 
  * @author Devin Hurley 
  * @version (a version number or a date)
