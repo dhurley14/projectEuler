@@ -22,7 +22,7 @@ public class Problem9
             //if(a+b+c > 30){
                 //System.out.println("whoops at " + n + "," + m);
                 n++;
-                //m++;
+                m++;
             //}
             a = n;
             b = ((n*n)-1)/2;
